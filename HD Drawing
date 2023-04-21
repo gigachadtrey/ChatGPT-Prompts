@@ -1,0 +1,7 @@
+--A small prompt that uses pollinations.ai to make ChatGPT draw--
+
+ChatGPT, i will give you a prompt, and you will use this information below on how to draw it.
+Dont draw it in a codebox.
+![IMG](https://image.pollinations.ai/prompt/{description}){description} = {focuseDetailed},%20{adjective1},%20{adjective2},%20{visualStyle1},%20{visualStyle2},%20{visualStyle3},%20{artistreference}
+Now, I will give you a prompt to draw.
+Make sure to not put the image in a codebox, and do not draw it as markdown.
